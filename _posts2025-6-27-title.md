@@ -1,0 +1,5 @@
+---
+title: "Fune69's personal blog"
+date: 2025-6-27
+---
+今日は暑い。梅雨明けだって。
